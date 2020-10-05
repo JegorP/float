@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 2rem;
+    font-size: 4rem;
+    background-color: aqua;
+    color: black;
+    width: 75%;
+    margin: 0 auto;
+    clip-path: polygon(0 0, 100% 0%, 100% 83%, 0 100%);
+}
+
+main {
+    width: 75%;
+    margin: 0 auto;
+    background-color: rgba(0, 255, 255, 0.294);
+    padding: 8rem 2rem;
+    margin-top: -7rem;
+}
+
+.text-box {
+    width: 100%;
+    height: 30vh;
+}
+
+img {
+    width: 200px;
+    margin-right: 2.5rem;
+    margin-bottom: 2rem;
+    float: left;
+}
+
+.footer {
+    display: block;
+    width: 75%;
+    margin: 0 auto;
+    background-color: aqua;
+    text-align: center;
+    columns: black;
+    padding: 2rem;
+
+}
